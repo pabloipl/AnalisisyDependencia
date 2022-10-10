@@ -4,8 +4,8 @@ public class CarroCompra {
 
 	private int[][] productos = new int[2][5];
 	public static void main(String[] args) {
-		CarroCompra carro1=new CarroCompra();
-		carro1.mostrarTotal();
+		CarroCompra carro=new CarroCompra();
+		carro.mostrarTotal();
 	}
 
 
